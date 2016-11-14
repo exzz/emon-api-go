@@ -1,4 +1,4 @@
-package energymonitor
+package emon
 
 import (
 	"encoding/json"
